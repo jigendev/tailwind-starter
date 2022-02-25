@@ -8,6 +8,5 @@
 
 # Commands Listing
 `git clone github.com/muuzan/tailwind.starter`to clone this repository.<br>
-`yarn` to setup the environment as Yarn.<br>
 `yarn add -D tailwindcss postcss autoprefixer`to add TailwindCSS.<br>
 `npx tailwindcss -i ./src/assets/css/input.css -o ./src/assets/css/output.css --watch` to start the Tailwind environment.
